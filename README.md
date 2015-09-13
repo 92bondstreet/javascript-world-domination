@@ -2,9 +2,10 @@
 
 > ESILV - Course #1 keynote
 
-## Course
+## Course and Workshop
 
-[CM 1 - Javascript World Domination](https://github.com/92bondstreet/web-application-architectures#cm-1---javascript-world-domination)
+* [CM 1 - Javascript World Domination](https://github.com/92bondstreet/web-application-architectures#cm-1---javascript-world-domination)
+* [WS 1 - Javascript World Domination](https://github.com/92bondstreet/web-application-architectures/tree/master/WS1)
 
 ## Usage
 
@@ -12,4 +13,5 @@
 ❯ npm i reveal-md
 
 ❯ reveal-md presentation.md
+❯ reveal-md workshop.md
 ```
